@@ -1,9 +1,5 @@
 package chap04;
 
-import java.util.concurrent.Flow.Publisher;
-
-import org.graalvm.compiler.lir.amd64.AMD64Binary.ThreeOp;
-
 public class IntStack {
     private int max;
     private int ptr;

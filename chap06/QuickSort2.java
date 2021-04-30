@@ -15,7 +15,6 @@ public class QuickSort2 {
 
         lstack.push(left);
         rstack.push(right);
-
         
         while (lstack.isEmpty() != true) {
             int pl = left = lstack.pop();
@@ -27,7 +26,7 @@ public class QuickSort2 {
                 System.out.printf("%d , ", a[i]);
             }
             System.out.printf("%d}\n", a[right]);
-            
+
             do {
                 while (a[pl] < x) pl++;
                 while (a[pr] > x) pr--;

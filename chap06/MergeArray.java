@@ -1,3 +1,5 @@
+package chap06;
+
 import java.util.Scanner;
 
 public class MergeArray {

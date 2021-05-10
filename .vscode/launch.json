@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PhyscExamSort",
+            "request": "launch",
+            "mainClass": "chap06.PhyscExamSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortCalendar",
+            "request": "launch",
+            "mainClass": "chap06.SortCalendar",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhysExamSearch",
+            "request": "launch",
+            "mainClass": "chap03.PhysExamSearch",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhysExamSearch",
+            "request": "launch",
+            "mainClass": "PhysExamSearch",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "chap06.MergeSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "chap06.MergeArray",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "MergeArray",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericClassTester",
+            "request": "launch",
+            "mainClass": "chap03.GenericClassTester",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntStackTester",
+            "request": "launch",
+            "mainClass": "chap04.IntStackTester",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastNElements",
+            "request": "launch",
+            "mainClass": "chap04.LastNElements",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch EightQueen",
+            "request": "launch",
+            "mainClass": "chap05.EightQueen",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hanoi",
+            "request": "launch",
+            "mainClass": "chap05.Hanoi",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueenB",
+            "request": "launch",
+            "mainClass": "chap05.QueenB",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueenBB",
+            "request": "launch",
+            "mainClass": "chap05.QueenBB",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "chap06.BubbleSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort3",
+            "request": "launch",
+            "mainClass": "chap06.BubbleSort3",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "chap06.InsertionSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch Partition",
+            "request": "launch",
+            "mainClass": "chap06.Partition",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "chap06.QuickSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort1",
+            "request": "launch",
+            "mainClass": "chap06.QuickSort1",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort2",
+            "request": "launch",
+            "mainClass": "chap06.QuickSort2",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShellSort",
+            "request": "launch",
+            "mainClass": "chap06.ShellSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShellSort2",
+            "request": "launch",
+            "mainClass": "chap06.ShellSort2",
+            "projectName": "Java_dc5aa015"
+        }
+    ]
+}

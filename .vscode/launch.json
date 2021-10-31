@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fsort",
+            "request": "launch",
+            "mainClass": "chap06.Fsort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapSort",
+            "request": "launch",
+            "mainClass": "chap06.HeapSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhyscExamSort",
+            "request": "launch",
+            "mainClass": "PhyscExamSort",
+            "projectName": "Java_dc5aa015"
+        },
+        {
+            "type": "java",
             "name": "Launch PhyscExamSort",
             "request": "launch",
             "mainClass": "chap06.PhyscExamSort",
